@@ -8,5 +8,6 @@
 - 🔮 Goal: Eventually get into theoretical computer science research
 - 🧑‍💻 Add me on Linkedin! https://www.linkedin.com/in/gabrielsison/
 - 🤩 Fun fact: I'm a Swiftie and love going to the gym!
-- 📄 Here's my resume: [Resume](https://github.com/Gabriel-Sison/Gabriel-Sison/files/11713942/2024.Resume.-.Gabriel.Sison.pdf)
+- 📄 Here's my resume: [Resume](https://github.com/Gabriel-Sison/Gabriel-Sison/files/12446839/Resume_GabrielSison.pdf)
+
 - 🫢 __Most of my cool projects are private due to confidentiality reasons__
